@@ -1,0 +1,12 @@
+h3{
+	padding:20px;
+	display:center;
+	background:tomato;
+	color:white;
+}
+body{
+	background: tomato;
+}
+p{
+	font-style: italic;
+}
